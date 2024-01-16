@@ -1,0 +1,18 @@
+.reg_inputs{
+    width: 50vw;
+    margin: 0vw auto;
+    border: 2px solid gray;
+    padding: 2vw;
+}
+
+.reg_inp{
+    width: 95%;
+    display: block;
+    padding: 0.5vw;
+    margin: 0.5vw;
+}
+
+
+.reg_inp:focus{
+    outline: none;
+}
