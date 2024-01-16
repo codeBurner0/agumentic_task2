@@ -1,0 +1,9 @@
+npm i -g typescript
+npm i -g ts-node
+
+npm --init 
+tsc --init 
+
+npm i @types/node 
+npm i express
+npm i @types/express
